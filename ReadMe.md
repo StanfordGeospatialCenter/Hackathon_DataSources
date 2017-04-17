@@ -17,6 +17,11 @@ QGIS is the best Open Source Desktop GIS package around. A good place to start f
 [http://www.gdal.org/](http://www.gdal.org/)  
 GDAL is the Geospatial Data Abstraction Library, a command-line set of tools for transforming and converting geospatial datasets.
 
+#### OpenRefine  
+[http://openrefine.org/](http://openrefine.org/)  
+
+OpenRefine (formerly Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.  You can also use it in conjunction with geonames.org and other web-based geospatial APIs to geocode and route. See [https://github.com/StanfordGeospatialCenter/Tutorial-Geocoding-APIs](https://github.com/StanfordGeospatialCenter/Tutorial-Geocoding-APIs) for a tutorial on using OpenRefine for geocoding. 
+
 ## Online Services  
 
 #### Mapbox  
@@ -43,11 +48,16 @@ The application is an integral part of the work that the OpenStreetMap community
 The physical map collection is housed in the David Rumsey Map Center at the Stanford University Library. The historical map collection has over 76,000 maps and images online. The collection includes rare 16th through 21st century maps of America, North America, South America, Europe, Asia, Africa, Pacific and the World. The site also has integrated the ability to **georeference** any of the historical maps you find on the site, and serve them as WMS or Map Tile Services using several OGC Standard mapping service types. 
 
 #### mapshaper
-[www.mapshaper.org/](www.mapshaper.org/)  
+[www.mapshaper.org/](http://www.mapshaper.org/)  
 A tool for topologically aware shape simplification. Reads and writes Shapefile, GeoJSON and TopoJSON formats. A quick and efficient way to simplify geospatial datasets for faster performance over the internet. 
 
-####  geojson.io  
+####  geojson.io 
+[http://geojson.io](http://geojson.io)
 geojson.io is a quick, simple tool for creating, viewing, and sharing map data. geojson.io is named after GeoJSON, an open source data format, and it supports GeoJSON in all ways - but also accepts KML, GPX, CSV, GTFS, TopoJSON, and other formats.
+
+#### Geonames.org
+[www.geonames.org](http://www.geonames.org)
+The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 
 ## Code Libraries
 
@@ -78,44 +88,43 @@ dc.js is a javascript charting library with native crossfilter support, allowing
 dc.js is an easy yet powerful javascript library for data visualization and analysis in the browser and on mobile devices.
 
 
-## Data
-### General Data
+# Data Sources
+## General Data
+
 #### Data.gov
-#### HDX - Humanitarian Data Exchange
-#### Earthworks.stanford.edu
-#### OpenStreetMap
-#### DavidRumsey.com
-#### GLOVIS
-#### Census.gov
-#### NHGIS.org
 
 
-http://resilience.abag.ca.gov/open-data/
-Open data platform of the Association of Bay Area Governments
+#### USGS online data search platform, including GIS data  
+[https://data.usgs.gov/datacatalog](https://data.usgs.gov/datacatalog)
+The USGS Science Data Catalog provides seamless access to USGS research and monitoring data from across the nation. Users have the ability to search, browse, or use a map-based interface to discover data.
 
-https://earthquake.usgs.gov/data/data.php#geod
-USGS Earthquake data
+#### HDX - Humanitarian Data Exchange  
+[https://data.humdata.org/](https://data.humdata.org/)  
+The Humanitarian Data Exchange (HDX) is an open platform for sharing data, launched in July 2014. The goal of HDX is to make humanitarian data easy to find and use for analysis. Our growing collection of datasets has been accessed by users in over 200 countries and territories. Watch this video to learn more.
 
-https://data.usgs.gov/datacatalog
-USGS online data search platform, including GIS data
+#### Earthworks.stanford.edu  
+[https://earthworks.stanford.edu/](https://earthworks.stanford.edu/)  
+Earthworks is Stanford's geospatial Data Discovery platform. It provides federated serach across several institutions like Harvard, Columbia, MIT, etc... There are over 25,000 data layers indexed in Earthworks, with nearly 10k publicly available.  
 
-https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data
-Historical hurricane tracks and information
+#### GLOVIS  
+[http://glovis.usgs.gov/next/](http://glovis.usgs.gov/next/)  
+Explore the world’s largest civilian collection of images of the Earth’s surface. Find satellite images and data, aerial photography, elevation and land cover datasets, digitized maps, and our Image Gallery collections.
 
-https://data.sfgov.org/
-SF Open Data Portal
+Our Archive spans from 1937 aerial photographs to millions of satellite images of the Earth’s surface, starting with the original Earth orbits in the 1960’s and first Landsat satellite in 1972, to our current hourly additions of satellite images. Click on any product category to review detailed information on the products, plus how to order or download selected images at no charge.
 
-https://www.data.gov/
-US Government Open Data Portal
+#### Census.gov  
+[https://www.census.gov/developers/](https://www.census.gov/developers/)    
+The Census Bureau's mission is to serve as the leading source of quality data about the nation's people and economy. We honor privacy, protect confidentiality, share our expertise globally, and conduct our work openly. The Census Bureau has begun rolling out datasets via APIs.  Check out our Discovery Tool. Sign up for our newsletter to get the latest updates and newest dataset addition. We also invite you to make requests for features / data via our forum.
 
-http://ds.iris.edu/ieb/index.html
-Global Historical Earthquake Browser
+#### Historic U.S. Census GEOGRAPHIC SUMMARY DATA AND BOUNDARY FILES
+[NHGIS.org](http://NHGIS.org)  
+The National Historical Geographic Information System (NHGIS) provides population, housing, agricultural, and economic data, along with GIS-compatible boundary files, for geographic units in the United States from 1790 to the present.
 
-http://service.ncedc.org/
-Northern California Earthquake Data Center (for time-series data from seismic stations)
+## Bay Area Data
 
+#### SF Open Data Portal  
+[https://data.sfgov.org/](https://data.sfgov.org/)
 
-### Bay Area Data
 #### SFEI Aquatic Science Center data portal  
 [http://www.sfei.org/sfeidata.htm](http://www.sfei.org/sfeidata.htm)  
 
@@ -126,8 +135,20 @@ SFEI is the regional data center for the San Francisco Bay-Delta and northern mo
 
 Discover, explore, and download open data from Metropolitan Transportation Commission Open Data
 
+## Disaster Data
 
-### Disaster Data
+#### USGS Earthquake data  
+[https://earthquake.usgs.gov/data/data.php#geod](USGS Earthquake data)
+
+#### Global Historical Earthquake Browser
+[http://ds.iris.edu/ieb/index.html](http://ds.iris.edu/ieb/index.html)
+
+#### Historical hurricane tracks and information  
+[https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data](https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data)  
+
+#### Northern California Earthquake Data Center (for time-series data from seismic stations)  
+[http://service.ncedc.org/](http://service.ncedc.org/)
+
 #### ABAG Resilience Program data:  
 [http://resilience.abag.ca.gov/open-data/](http://resilience.abag.ca.gov/open-data/)  
 
