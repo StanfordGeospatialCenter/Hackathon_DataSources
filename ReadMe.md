@@ -38,6 +38,8 @@ OSM Tasking Manager is a mapping tool designed and built for the Humanitarian OS
 
 The application is an integral part of the work that the OpenStreetMap community does to respond to, and prepare for disasters, with geospatial data. 
 
+DavidRumsey.com
+
 ## Code Libraries
 
 #### leaflet.js
@@ -69,14 +71,46 @@ dc.js is an easy yet powerful javascript library for data visualization and anal
 
 ## Data
 ### General Data
+#### Data.gov
+#### HDX - Humanitarian Data Exchange
+#### Earthworks.stanford.edu
+#### OpenStreetMap
+#### DavidRumsey.com
+#### GLOVIS
+#### Census.gov
+#### NHGIS.org
+
+
+http://resilience.abag.ca.gov/open-data/
+Open data platform of the Association of Bay Area Governments
+
+https://earthquake.usgs.gov/data/data.php#geod
+USGS Earthquake data
+
+https://data.usgs.gov/datacatalog
+USGS online data search platform, including GIS data
+
+https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data
+Historical hurricane tracks and information
+
+https://data.sfgov.org/
+SF Open Data Portal
+
+https://www.data.gov/
+US Government Open Data Portal
+
+http://ds.iris.edu/ieb/index.html
+Global Historical Earthquake Browser
+
+http://service.ncedc.org/
+Northern California Earthquake Data Center (for time-series data from seismic stations)
+
 
 ### Bay Area Data
 #### SFEI Aquatic Science Center data portal  
 [http://www.sfei.org/sfeidata.htm](http://www.sfei.org/sfeidata.htm)  
 
 SFEI is the regional data center for the San Francisco Bay-Delta and northern montane regions. The Institute manages water quality, tissue, wetlands, historical, and ...
-
-
 
 #### SF MTC spatial data library  
 [http://opendata.mtc.ca.gov/](http://opendata.mtc.ca.gov/)  
