@@ -1,11 +1,11 @@
-# Geospatial Data & Software Resources for Artathon
+# Geospatial Data & Software Resources for Art-a-thon
+
+Below you'll find some of the basic building blocks for creating interactive mapping applications for the web. About the only thing you need, that you won't find below, is a web server for your html code. 
 
 ## The Basics
 [http://mapschool.io/](http://mapschool.io/)  
 
-An excellent introduction to mapping with computers, particularly for the web.
-
-
+An excellent introduction to mapping with computers, particularly for the web. Mapschool is a collaborative, simple guide to understanding the concepts of cartography, gis, and maps. You can read it at [mapschool.io](mapschool.io) and contribute to it at [https://github.com/mapschool/mapschool](https://github.com/mapschool/mapschool). Mapschool is licensed CC0: it is free.
 
 ## Software
 
@@ -25,7 +25,7 @@ Mapbox Studio provides a free tier of subscription which iwll allow you to creat
 
 #### CARTO  
 [https://carto.com/](https://carto.com/)  
-CARTO.com is the newest iteration of CartoDB.com, and provided a great deal of developer-friendly geospatial data analysis and management functionality with the free account level.  You can even use CARTO to store non-geo data and call it through the SQL API or the DATA API, for use in websites using D3.js, etc...  
+CARTO.com is the newest iteration of CartoDB.com, and provides a great deal of developer-friendly geospatial data analysis and management functionality with the free account level.  You can even use CARTO to store non-geo data and call it through the SQL API or the DATA API, for use in websites using D3.js, etc...  
 
 #### OpenStreetMap  
 [http://www.openstreetmap.org/](http://www.openstreetmap.org/)  
@@ -38,7 +38,16 @@ OSM Tasking Manager is a mapping tool designed and built for the Humanitarian OS
 
 The application is an integral part of the work that the OpenStreetMap community does to respond to, and prepare for disasters, with geospatial data. 
 
-DavidRumsey.com
+#### DavidRumsey.com  
+[http://www.davidrumsey.com/](http://www.davidrumsey.com/)  
+The physical map collection is housed in the David Rumsey Map Center at the Stanford University Library. The historical map collection has over 76,000 maps and images online. The collection includes rare 16th through 21st century maps of America, North America, South America, Europe, Asia, Africa, Pacific and the World. The site also has integrated the ability to **georeference** any of the historical maps you find on the site, and serve them as WMS or Map Tile Services using several OGC Standard mapping service types. 
+
+#### mapshaper
+[www.mapshaper.org/](www.mapshaper.org/)  
+A tool for topologically aware shape simplification. Reads and writes Shapefile, GeoJSON and TopoJSON formats. A quick and efficient way to simplify geospatial datasets for faster performance over the internet. 
+
+####  geojson.io  
+geojson.io is a quick, simple tool for creating, viewing, and sharing map data. geojson.io is named after GeoJSON, an open source data format, and it supports GeoJSON in all ways - but also accepts KML, GPX, CSV, GTFS, TopoJSON, and other formats.
 
 ## Code Libraries
 
