@@ -168,8 +168,10 @@ Areas Vulnerable to Sea Level Rise in San Francisco Bay. Sea level rise is a con
 #### Pacific Institute Sea Level Rise data  
 [http://www2.pacinst.org/reports/sea_level_rise/data/](http://www2.pacinst.org/reports/sea_level_rise/data/)  
 
+This page contains links to downloadable geographic data created or modified by Pacific Institute researchers for the project Impacts of Sea ...
+
 #### Bankroft Library 1906 Earthquake data archives  
 http://vm136.lib.berkeley.edu/BANC/collections/earthquakeandfire/index2.html  
 
 
-This page contains links to downloadable geographic data created or modified by Pacific Institute researchers for the project Impacts of Sea ...
+
