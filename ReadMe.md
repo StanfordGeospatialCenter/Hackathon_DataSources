@@ -59,6 +59,13 @@ geojson.io is a quick, simple tool for creating, viewing, and sharing map data. 
 [www.geonames.org](http://www.geonames.org)
 The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 
+#### Google Earth Engine
+[https://earthengine.google.com/#intro](https://earthengine.google.com/#intro)  
+Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.
+
+Clipping and image viz:
+[https://developers.google.com/earth-engine/image_visualization](https://developers.google.com/earth-engine/image_visualization)
+
 ## Code Libraries
 
 #### leaflet.js
