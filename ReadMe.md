@@ -127,6 +127,13 @@ The Census Bureau's mission is to serve as the leading source of quality data ab
 [NHGIS.org](http://NHGIS.org)  
 The National Historical Geographic Information System (NHGIS) provides population, housing, agricultural, and economic data, along with GIS-compatible boundary files, for geographic units in the United States from 1790 to the present.
 
+#### Mannahatta Project
+[https://welikia.org/science/recreating-mannahatta/](https://welikia.org/science/recreating-mannahatta/)  
+Reconstruction of Pre-Colombian environment of Manhattan Island. 
+
+The Map Application:
+[https://welikia.org/explore/mannahatta-map/](https://welikia.org/explore/mannahatta-map/)
+
 ## Bay Area Data
 
 #### SF Open Data Portal  
@@ -141,12 +148,6 @@ SFEI is the regional data center for the San Francisco Bay-Delta and northern mo
 [http://opendata.mtc.ca.gov/](http://opendata.mtc.ca.gov/)  
 
 Discover, explore, and download open data from Metropolitan Transportation Commission Open Data
-
-#### Tidal Gauge Data (Including SF tidal gauge data from 1854-Present)  
-https://tidesandcurrents.noaa.gov/map/index.shtml?region=California  
-
-#### NOAA Coastal Data Search Platform  
-https://coast.noaa.gov/dataviewer/#/  
 
 ## Disaster Data
 
@@ -172,13 +173,7 @@ ABAG’s Resilience Open Data portal contains 40+ hazard map layers and a growin
 
 Areas Vulnerable to Sea Level Rise in San Francisco Bay. Sea level rise is a concern for many Bay Area residents, community leaders, and resource ...  
 
-#### Pacific Institute Sea Level Rise data  
+#### Pacific Institute Sea Level Rise data
 [http://www2.pacinst.org/reports/sea_level_rise/data/](http://www2.pacinst.org/reports/sea_level_rise/data/)  
 
 This page contains links to downloadable geographic data created or modified by Pacific Institute researchers for the project Impacts of Sea ...
-
-#### Bankroft Library 1906 Earthquake data archives  
-http://vm136.lib.berkeley.edu/BANC/collections/earthquakeandfire/index2.html  
-
-
-
