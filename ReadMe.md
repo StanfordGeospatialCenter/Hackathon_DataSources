@@ -134,6 +134,13 @@ Reconstruction of Pre-Colombian environment of Manhattan Island.
 The Map Application:
 [https://welikia.org/explore/mannahatta-map/](https://welikia.org/explore/mannahatta-map/)
 
+#### Natural Earth Data  
+[http://www.naturalearthdata.com/](http://www.naturalearthdata.com/)  
+
+Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
+
+Most important for this event, there are great TIFFs of the surface of the earth, with.without acean, etc...
+
 ## Bay Area Data
 
 #### SF Open Data Portal  
