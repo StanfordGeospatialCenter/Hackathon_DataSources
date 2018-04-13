@@ -1,6 +1,6 @@
-# Geospatial Data & Software Resources for Art-a-thon
+# Geospatial Data & Software Resources for Hackathons
 
-Below you'll find some of the basic building blocks for creating interactive mapping applications for the web. About the only thing you need, that you won't find below, is a web server for your html code. 
+Below you'll find some of the basic building blocks for creating interactive mapping applications for the web of Mobile. About the only thing you need, that you won't find below, is a web server for your html code. 
 
 ## The Basics
 [http://mapschool.io/](http://mapschool.io/)  
@@ -23,6 +23,10 @@ GDAL is the Geospatial Data Abstraction Library, a command-line set of tools for
 OpenRefine (formerly Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.  You can also use it in conjunction with geonames.org and other web-based geospatial APIs to geocode and route. See [https://github.com/StanfordGeospatialCenter/Tutorial-Geocoding-APIs](https://github.com/StanfordGeospatialCenter/Tutorial-Geocoding-APIs) for a tutorial on using OpenRefine for geocoding. 
 
 ## Online Services  
+
+#### Planet.com
+[https://www.planet.com/](https://www.planet.com/)  
+The Earth, imaged with 4 spectral bands, at 5m resolution or better, every day. *.edu emails have the opportunity to obtain research and teaching accounts. 
 
 #### Mapbox  
 [https://www.mapbox.com/mapbox-studio/](https://www.mapbox.com/mapbox-studio/)  
@@ -57,7 +61,7 @@ geojson.io is a quick, simple tool for creating, viewing, and sharing map data. 
 
 #### Geonames.org
 [www.geonames.org](http://www.geonames.org)
-The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
+The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge. Also includes a geocoding service/API with very liberal use terms. 
 
 #### Google Earth Engine
 [https://earthengine.google.com/#intro](https://earthengine.google.com/#intro)  
@@ -98,8 +102,7 @@ dc.js is an easy yet powerful javascript library for data visualization and anal
 # Data Sources
 ## General Data
 
-#### Data.gov
-
+#### [Data.gov](https://Data.gov)
 
 #### USGS online data search platform, including GIS data  
 [https://data.usgs.gov/datacatalog](https://data.usgs.gov/datacatalog)
