@@ -103,14 +103,11 @@ dc.js is an easy yet powerful javascript library for data visualization and anal
 ## General Data
 
 #### [Data.gov](https://Data.gov)
-<<<<<<< Updated upstream
-=======
 
 #### Skyhook TIDE Mobile Device Data  
-[Skyhook OpenTIDE](http://www.skyhook.com/gi_opentide?__hstc=114541272.ba4ed08edd58696dbf995d3a78598b09.1520981230931.1521748065146.1521850347232.3&__hssc=114541272.1.1523652006349&__hsfp=1131349608&hsCtaTracking=4a863f88-239d-40ae-a3a2-2b1f251231bc%7Cea64981c-6e1c-4f04-8f5b-7922a3aff0b4)  
+[Skyhook OpenTIDE](http://www.skyhook.com/gi_opentide?__hstc=114541272.ba4ed08edd58696dbf995d3a78598b09.1520981230931.1521748065146.1521850347232.3&__hssc=114541272.1.1523652006349&__hsfp=1131349608&hsCtaTracking=4a863f88-239d-40ae-a3a2-2b1f251231bc%7Cea64981c-6e1c-4f04-8f5b-7922a3aff0b4)   
+[http://skyhook.carto.com/](http://skyhook.carto.com/)  
 Tiled, hourly counts of mobile devices per 100m grid cell, for the globe. 
-
->>>>>>> Stashed changes
 
 #### USGS online data search platform, including GIS data  
 [https://data.usgs.gov/datacatalog](https://data.usgs.gov/datacatalog)
