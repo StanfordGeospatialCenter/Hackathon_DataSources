@@ -30,7 +30,7 @@ The Earth, imaged with 4 spectral bands, at 5m resolution or better, every day. 
 
 #### Mapbox  
 [https://www.mapbox.com/mapbox-studio/](https://www.mapbox.com/mapbox-studio/)  
-Mapbox Studio provides a free tier of subscription which iwll allow you to create performant web mapping applications. You can customize the symbology of OpenStreetMap data to your own purpose, add your own operational data, and create custom behaviors in pop-ups, etc...  
+Mapbox Studio provides a free tier of subscription which will allow you to create performant web mapping applications. You can customize the symbology of OpenStreetMap data to your own purpose, add your own operational data, and create custom behaviors in pop-ups, etc...  
 
 #### CARTO  
 [https://carto.com/](https://carto.com/)  
@@ -75,6 +75,10 @@ Clipping and image viz:
 #### leaflet.js
 [http://leafletjs.com/](http://leafletjs.com/)
 Leaflet.js is everyone's favorite mapping library, created for mobile, and so very performant in all situations. Super easy to use, and interoperable with mapping services that comply with OGC standards (WMS & WFS).
+
+#### Geostats.jl  
+[https://github.com/juliohm/GeoStats.jl](https://github.com/juliohm/GeoStats.jl)
+High-performance implementations of geostatistical algorithms for the Julia programming language.
 
 #### turf.js  
 [http://turfjs.org/ ](http://turfjs.org/) 
