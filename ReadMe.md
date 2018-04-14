@@ -77,8 +77,9 @@ Clipping and image viz:
 Leaflet.js is everyone's favorite mapping library, created for mobile, and so very performant in all situations. Super easy to use, and interoperable with mapping services that comply with OGC standards (WMS & WFS).
 
 #### Geostats.jl  
-[https://github.com/juliohm/GeoStats.jl](https://github.com/juliohm/GeoStats.jl)
-High-performance implementations of geostatistical algorithms for the Julia programming language.
+[https://github.com/juliohm/GeoStats.jl](https://github.com/juliohm/GeoStats.jl)  
+High-performance implementations of geostatistical algorithms for the Julia programming language that provides a comprehensive framework for geostatistics (or spatial statistics) in a modern programming language.
+Addresses the lack of a platform for scientific comparison of different geostatistical algorithms in the literature and exploits modern hardware aggressively, including GPUs and computer clusters.  
 
 #### turf.js  
 [http://turfjs.org/ ](http://turfjs.org/) 
