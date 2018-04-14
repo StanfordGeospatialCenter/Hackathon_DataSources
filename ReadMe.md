@@ -132,6 +132,11 @@ The USGS Science Data Catalog provides seamless access to USGS research and moni
 [https://data.humdata.org/](https://data.humdata.org/)  
 The Humanitarian Data Exchange (HDX) is an open platform for sharing data, launched in July 2014. The goal of HDX is to make humanitarian data easy to find and use for analysis. Our growing collection of datasets has been accessed by users in over 200 countries and territories. Watch this video to learn more.
 
+#### The High Resolution Settlement Layer (HRSL)   
+[https://ciesin.columbia.edu/data/hrsl/](https://ciesin.columbia.edu/data/hrsl/)
+
+provides estimates of human population distribution at a resolution of 1 arc-second (approximately 30m) for the year 2015. The population estimates are based on recent census data and high-resolution (0.5m) satellite imagery from DigitalGlobe.  
+
 #### Earthworks.stanford.edu  
 [https://earthworks.stanford.edu/](https://earthworks.stanford.edu/)  
 Earthworks is Stanford's geospatial Data Discovery platform. It provides federated serach across several institutions like Harvard, Columbia, MIT, etc... There are over 25,000 data layers indexed in Earthworks, with nearly 10k publicly available.  
