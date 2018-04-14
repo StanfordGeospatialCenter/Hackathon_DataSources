@@ -103,6 +103,10 @@ dc.js is a javascript charting library with native crossfilter support, allowing
 
 dc.js is an easy yet powerful javascript library for data visualization and analysis in the browser and on mobile devices.
 
+#### telluric - Interactive geospatial data in Python and Jupyter
+[http://telluric.readthedocs.io/en/latest/](http://telluric.readthedocs.io/en/latest/)
+
+telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way. It is meant to be used in the Jupyter notebook environment and allows you to easily read, manipulate and write vector and raster geospatial data in common formats.
 
 # Data Sources
 ## General Data
