@@ -91,6 +91,12 @@ Simple Statistics is a JavaScript library that implements statistical methods.
 
 It helps coders harness the power of statistics and statisticians understand code. The library is exhaustively documented, written in a simple and friendly style, and thoroughly tested.  
 
+#### GeoStats.jl
+
+[GeoStats.jl](https://github.com/juliohm/GeoStats.jl)
+
+Gestatistical methods for advanced estimation/simulation of spatial variables. Contact [@juliohm](https://github.com/juliohm) for help or join the community on the [gitter channel](https://gitter.im/JuliaEarth/GeoStats.jl).
+
 #### D3.js  
 [https://d3js.org/](https://d3js.org/)  
 
